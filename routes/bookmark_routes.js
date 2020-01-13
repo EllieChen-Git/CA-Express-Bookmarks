@@ -14,4 +14,6 @@ router.post(
   BookmarkController.create
 );
 
+router.get("/", BookmarkController.index);
+
 module.exports = router;

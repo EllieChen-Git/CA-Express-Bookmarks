@@ -1,6 +1,6 @@
 # CA-Express-Bookmarks
 
-- A clone of Garret's repo to practice connecting React to Express (Also refer to repo 'React-Bookmarks')
+- A clone of Garret's repo to practice connecting React to Express (Also refer to repo 'CA-React-Bookmarks')
 
 ---
 
@@ -9,6 +9,8 @@
 - **Run Command**: npm run dev-server (Remember to run 'mongod' in another terminal window in advance)
 
 - **Git push**: git push ellie
+
+---
 
 ### Note:
 
